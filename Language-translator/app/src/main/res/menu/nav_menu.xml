@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_about"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="@string/about_us" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="@string/settings" />
+
+    <item
+        android:id="@+id/switchToggleButton"
+        android:title="@string/night_mode"
+        android:icon="@drawable/ic_brightness_6_black_24dp"
+        app:actionLayout="@layout/layout_switch"/>
+
+
+    <item
+        android:id="@+id/action_exit"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"
+        android:title="@string/exit" />
+
+</menu>

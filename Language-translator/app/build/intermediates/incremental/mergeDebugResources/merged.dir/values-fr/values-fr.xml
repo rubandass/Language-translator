@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Revenir à l\'accueil"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Revenir en haut de la page"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Plus d\'options"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"OK"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tout afficher"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Sélectionner une application"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DÉSACTIVÉ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVÉ"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"supprimer"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"entrée"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Fonction+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Méta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Maj+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"espace"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Rechercher…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Effacer la requête"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Requête de recherche"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Rechercher"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Envoyer la requête"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Recherche vocale"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Partager avec"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Partager avec <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Réduire"</string>
+    <string name="about_us">À propos de nous</string>
+    <string name="about_us_close">FERMER</string>
+    <string name="about_us_msg1">Cette application est développée à des fins éducatives</string>
+    <string name="about_us_msg2">Développé par Rubandass &amp; Yash, étudiant en 3e année à l\'Otago polytechnic</string>
+    <string name="about_us_msg3">Pour toute question, veuillez envoyer un e-mail à «bitmobileopltd@gmail.com»</string>
+    <string name="abt_quiz">À propos du quiz:</string>
+    <string name="abt_quiz_msg1">"  - Cliquez sur le bouton Quiz pour jouer au quiz"</string>
+    <string name="abt_quiz_msg2">"  - Sélectionnez la langue pour jouer au quiz"</string>
+    <string name="abt_quiz_msg3">"  - Chaque langue a un jeu de quiz différent"</string>
+    <string name="abt_translation">À propos de la traduction:</string>
+    <string name="abt_translation_msg1">"  - Entrez les mots que vous souhaitez et sélectionnez la langue à traduire de l'anglais"</string>
+    <string name="abt_translation_msg2">- Assurez-vous d\'avoir une connexion Internet active avant de cliquer sur le bouton Traduire</string>
+    <string name="api_key">trnsl.1.1.20200403T023234Z.194560f3178a09fe.e9b0480ea0e09b6e0c4844d91120d775a87c9fa8</string>
+    <string name="app_name">Traducteur de la langue</string>
+    <string name="base_url">https://translate.yandex.net/api/v1.5/tr.json/translate</string>
+    <string name="btnListen_toolTip">Cliquez pour écouter</string>
+    <string name="btnPronunce">"  Aide à la prononciation"</string>
+    <string name="btnTranslate">Traduire</string>
+    <string name="btn_next">PROCHAIN</string>
+    <string name="btn_submit">SOUMETTRE</string>
+    <string name="content_home">COMMENCER</string>
+    <string name="error_msg_input_text">Vous devez saisir un mot à traduire!</string>
+    <string name="error_msg_speak">Entrez un mot &amp; Traduisez-le d\'abord!</string>
+    <string name="error_toast_message_speak">Entrez du texte</string>
+    <string name="error_toast_message_user_input">Entrez du texte</string>
+    <string name="exit">Sortie</string>
+    <string name="highest_score">Le score le plus élevé est</string>
+    <string name="language_change_cancel">Annuler</string>
+    <string name="language_change_title">Choisissez la langue</string>
+    <string name="msgConfirmation">Êtes-vous sûr de vouloir quitter?</string>
+    <string name="msg_getting_started">Commencer</string>
+    <string name="msg_ok">C\'EST BON JE L\'AI!</string>
+    <string name="msg_radio_option_selection">Sélectionnez une option</string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"Remonter"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"Ouvrir le panneau de navigation"</string>
+    <string name="nav_header_info">Traduire et jouer au Quiz</string>
+    <string name="navigation_home">Accueil</string>
+    <string name="navigation_quiz">Quiz</string>
+    <string name="navigation_translation">Traduction</string>
+    <string name="night_mode">Mode nuit</string>
+    <string name="no">Non</string>
+    <string name="play_again">REJOUER</string>
+    <string name="quiz_header">Quiz</string>
+    <string name="quiz_language_selection">Choisir la langue</string>
+    <string name="quiz_score_header">Score du quiz</string>
+    <string name="rate_us">Évaluez nous</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Rechercher"</string>
+    <string name="settings">Paramètres de langue</string>
+    <string name="start_quiz">Démarrer le quiz</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="textView">S\'il vous plaît, attendez…</string>
+    <string name="txvUserInputHint">Tapez quelque chose à traduire</string>
+    <string name="yes">Oui</string>
+    <string name="your_score">Ton score est</string>
+</resources>

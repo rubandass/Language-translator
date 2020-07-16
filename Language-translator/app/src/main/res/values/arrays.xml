@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages">
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Italian</item>
+        <item>German</item>
+    </string-array>
+
+    <string-array name="getting_started">
+        <item>@string/abt_translation</item>
+        <item>@string/abt_translation_msg1</item>
+        <item>@string/abt_translation_msg2</item>
+        <item>@string/abt_quiz</item>
+        <item>@string/abt_quiz_msg1</item>
+        <item>@string/abt_quiz_msg2</item>
+        <item>@string/abt_quiz_msg3</item>
+    </string-array>
+
+    <string-array name="about_us_message">
+        <item>@string/about_us_msg1</item>
+        <item>@string/about_us_msg2</item>
+        <item>@string/about_us_msg3</item>
+    </string-array>
+</resources>

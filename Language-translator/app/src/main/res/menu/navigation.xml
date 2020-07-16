@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/navigation_home"/>
+    <item
+        android:id="@+id/navigation_translation"
+        android:icon="@drawable/ic_g_translate_black_24dp"
+        android:title="@string/navigation_translation"/>
+    <item
+    android:id="@+id/navigation_quiz"
+        android:icon="@drawable/ic_help_black_24dp"
+        android:title="@string/navigation_quiz"/>
+</menu>

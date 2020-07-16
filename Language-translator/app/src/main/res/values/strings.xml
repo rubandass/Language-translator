@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Language Translator</string>
+
+    <!-- Strings used for label header-->
+    <string name="quiz_header">Quiz</string>
+    <string name="quiz_score_header">Quiz Score</string>
+
+    <!-- Strings used for navigation header-->
+    <string name="nav_header_info">Translate and play Quiz</string>
+
+    <!-- Strings used for Home screen-->
+    <string name="content_home">GETTING STARTED</string>
+    <string name="msg_getting_started">Getting Started</string>
+    <string name="abt_translation">About Translation:</string>
+    <string name="abt_translation_msg1">  - Enter words you wish and select language to translate from English</string>
+    <string name="abt_translation_msg2">  - Make sure you have active internet connection before clicking Translate button</string>
+    <string name="abt_quiz">About Quiz:</string>
+    <string name="abt_quiz_msg1">  - Click Quiz button for playing quiz</string>
+    <string name="abt_quiz_msg2">  - Select language to play quiz</string>
+    <string name="abt_quiz_msg3">  - Each language has different set of quiz</string>
+    <string name="msg_ok">OKAY, I GOT IT!</string>
+
+
+    <!-- Strings used for Quiz language selection screen-->
+    <string name="quiz_language_selection">Select language</string>
+    <string name="start_quiz">Start Quiz</string>
+
+    <!-- Strings used for quiz creation -->
+    <string name="btn_submit">SUBMIT</string>
+    <string name="btn_next">NEXT</string>
+    <string name="msg_radio_option_selection">Select any one option</string>
+
+    <!-- Strings used for Quiz score screen-->
+    <string name="your_score">Your score is</string>
+    <string name="highest_score">Highest score is</string>
+    <string name="play_again">PLAY AGAIN</string>
+
+    <!-- Strings used for side menu, progress dialog   -->
+    <string name="textView">Please wait…</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="about_us">About Us</string>
+    <string name="settings">Language Settings</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="exit">Exit</string>
+
+    <!--    Strings used for About us dialog-->
+    <string name="about_us_msg1">This application is developed for educational purpose</string>
+    <string name="about_us_msg2">Developed by Rubandass &amp; Yash, 3rd year students at Otago polytechnic</string>
+    <string name="about_us_msg3">Any query\'s, please send email to \'bitmobileopltd@gmail.com\'</string>
+    <string name="about_us_close">Close</string>
+
+    <!--    Strings used for translation screen-->
+    <string name="txvUserInputHint">Type something to translate</string>
+    <string name="btnTranslate">Translate</string>
+    <string name="btnPronunce">  Pronunciation help</string>
+    <string name="error_toast_message_user_input">Enter text</string>
+    <string name="error_msg_input_text">You must enter a word to translate!</string>
+    <string name="error_msg_speak">Enter a word &amp; Translate it first!</string>
+
+    <!--    Strings used for Exit alert dialog-->
+    <string name="msgConfirmation">Are you sure you want to exit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <!--    Strings used for language change settings-->
+    <string name="language_change_title">Choose Language</string>
+    <string name="language_change_cancel">Cancel</string>
+    <!--    Strings used for Speak-->
+    <string name="error_toast_message_speak">Enter text</string>
+    <string name="btnListen_toolTip">Click to Listen</string>
+    <!-- Strings used for url creation -->
+    <string name="base_url">https://translate.yandex.net/api/v1.5/tr.json/translate</string>
+    <string name="api_key">trnsl.1.1.20200403T023234Z.194560f3178a09fe.e9b0480ea0e09b6e0c4844d91120d775a87c9fa8</string>
+
+
+    <!-- Strings used for bottom navigation view -->
+    <string name="navigation_home">Home</string>
+    <string name="navigation_translation">Translation</string>
+    <string name="navigation_quiz">Quiz</string>
+
+</resources>

@@ -1,0 +1,4 @@
+#Fri May 01 15:47:02 NZST 2020
+base.0=C\:\\Users\\User\\Documents\\Year 3\\mobile-language-translator-rubandass\\Language-translator\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

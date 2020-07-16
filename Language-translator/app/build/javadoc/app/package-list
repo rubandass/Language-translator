@@ -1,0 +1,7 @@
+$dokka.format:gfm
+$dokka.linkExtension:md
+
+jhonr1.bit.language_translator.activities
+jhonr1.bit.language_translator.enums
+jhonr1.bit.language_translator.helpers
+jhonr1.bit.language_translator.interfaces
